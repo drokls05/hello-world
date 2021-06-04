@@ -1,2 +1,3 @@
 # hello-world
 getting started. attempt #001
+The tutorial wants me to write about myself, but eh...
